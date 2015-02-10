@@ -1,0 +1,6 @@
+[submodule "AppCommon"]
+	path = AppCommon
+	url = https://github.com/igitras/AppCommon.git
+[submodule "CodeGen"]
+	path = CodeGen
+	url = https://github.com/igitras/CodeGen.git
